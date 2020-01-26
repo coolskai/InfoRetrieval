@@ -30,5 +30,3 @@ if __name__ == '__main__':
         print('doc#', document, '.', end='')
         print(documents[document].strip(), ' : ', end='')
         print(bm.generate_document_vector(document))
-
-    print('test')
