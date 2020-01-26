@@ -1,5 +1,5 @@
 import nltk
-import BooleanModel
+from Modelling import BooleanModel
 
 EN_PATH = './testdata_en/'
 
